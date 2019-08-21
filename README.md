@@ -1,4 +1,4 @@
-# Creality Ender 3 Printer Settings and Setup
+# Creality Ender 3 Printer Settings
 *Achieving great quality prints with the Creality Ender 3*
 
 ## Introduction
